@@ -1,0 +1,9 @@
+{
+  "id": "stealth",
+  "name": "Stealth",
+  "desc": "Stealth theme",
+  "swatchBg": "#090909",
+  "swatchAccent": "#777777",
+  "source": "/home/phantom/.config/lucid/themes/stealth/quickshell.json",
+  "user": true
+}

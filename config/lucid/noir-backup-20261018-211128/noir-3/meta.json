@@ -1,0 +1,10 @@
+{
+  "id": "noir-3",
+  "name": "Noir",
+  "desc": "Near-black with muted red accents",
+  "swatchBg": "#000000",
+  "swatchAccent": "#f5f5f5",
+  "source": "/home/phantom/.config/lucid/themes/noir/quickshell.json",
+  "detected": "named-json",
+  "user": true
+}

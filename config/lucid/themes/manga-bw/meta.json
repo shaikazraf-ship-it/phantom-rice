@@ -1,0 +1,8 @@
+{
+  "id": "manga-bw",
+  "name": "Manga B&W",
+  "desc": "Monochrome black and white theme",
+  "swatchBg": "#000000",
+  "swatchAccent": "#FFFFFF",
+  "source": "/home/phantom/.config/lucid/themes/manga-bw/quickshell.json"
+}

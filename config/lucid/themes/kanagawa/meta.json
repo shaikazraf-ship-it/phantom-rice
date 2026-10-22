@@ -1,0 +1,9 @@
+{
+  "id": "kanagawa",
+  "name": "Kanagawa",
+  "desc": "Kanagawa theme",
+  "swatchBg": "#1F1F28",
+  "swatchAccent": "#7E9CD8",
+  "source": "/home/phantom/.config/lucid/themes/kanagawa/quickshell.json",
+  "user": true
+}

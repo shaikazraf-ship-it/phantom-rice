@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-purple",
+  "name": "Obsidian Dark Purple",
+  "desc": "Minecraft-inspired obsidian black and glowing amethyst",
+  "swatchBg": "#100B18",
+  "swatchAccent": "#9B5CFF",
+  "source": "/home/phantom/.config/lucid/themes/obsidian-purple/quickshell.json",
+  "detected": "named-json",
+  "user": true
+}

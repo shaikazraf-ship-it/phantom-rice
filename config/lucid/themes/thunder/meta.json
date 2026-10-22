@@ -1,0 +1,10 @@
+{
+  "id": "thunder",
+  "name": "Thunder",
+  "desc": "Matte black with electric yellow accents",
+  "swatchBg": "#090909",
+  "swatchAccent": "#FFD400",
+  "source": "/home/phantom/.config/lucid/themes/thunder/quickshell.json",
+  "detected": false,
+  "user": true
+}

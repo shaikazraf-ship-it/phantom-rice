@@ -1,0 +1,9 @@
+{
+  "id": "frost",
+  "name": "Frost",
+  "desc": "Frost theme",
+  "swatchBg": "#EAF4FA",
+  "swatchAccent": "#91CDEB",
+  "source": "/home/phantom/.config/lucid/themes/frost/quickshell.json",
+  "user": true
+}

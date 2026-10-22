@@ -1,0 +1,22 @@
+@import url('colors.css');
+
+
+/* Frost theme: readable icy blue */
+window, .background, view, textview, treeview, listview, gridview, columnview {
+  background-color: #EAF4FA;
+  color: #18232D;
+}
+.navigation-sidebar {
+  background-color: #D6EAF5;
+  color: #18232D;
+}
+.navigation-sidebar row {
+  color: #18232D;
+}
+.navigation-sidebar row:selected, row:selected {
+  background-color: #9BCFE8;
+  color: #102C3A;
+}
+label, .navigation-sidebar label {
+  color: #18232D;
+}

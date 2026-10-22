@@ -1,0 +1,10 @@
+{
+  "id": "everforest",
+  "name": "Everforest",
+  "desc": "Calm forest greens, sage, and warm gold",
+  "swatchBg": "#2D353B",
+  "swatchAccent": "#A7C080",
+  "source": "/home/phantom/.config/lucid/themes/everforest/quickshell.json",
+  "detected": "named-json",
+  "user": true
+}

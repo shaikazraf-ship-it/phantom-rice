@@ -1,0 +1,10 @@
+{
+  "id": "wabi-sabi-rust",
+  "name": "Wabi-Sabi Rust",
+  "desc": "Rust, clay, warm beige and muted olive",
+  "swatchBg": "#211D1A",
+  "swatchAccent": "#B76545",
+  "source": "/home/phantom/.config/lucid/themes/wabi-sabi-rust/quickshell.json",
+  "detected": "named-json",
+  "user": true
+}
